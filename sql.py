@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # Created By Con7ext
+# CSE API KEY : Teguh Aprianto
 from urllib.request import Request as ntodReq, urlopen as ntodOpen
 import re
 import urllib.error
